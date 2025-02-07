@@ -6,7 +6,7 @@ Objetivo: Desarrollar un programa de software que involucre las 3 capas del patr
     https://
 
 # *CARACTERISTICAS:*
-  ### Genere una solución aplicando las siguientes indicaciones donde en cada "página/sección" se muestre:
+Genere una solución aplicando las siguientes indicaciones donde en cada "página/sección" se muestre:
 
 ## *Instalaciones requeridas:*\
   •	IDE para programa en Java: Se sugiere NetBeans, pero se puede utilizar cualquier otro si se conoce su manejo.\
