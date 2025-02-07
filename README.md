@@ -7,14 +7,15 @@ Objetivo: Desarrollar un programa de software que involucre las 3 capas del patr
 # Link Del Trabajo Realizado:
     https://
 
-## *Caracteristicas:*
+
+# *Indicaciones del trabajo:*
 Genere una solución aplicando las siguientes indicaciones donde en cada "página/sección" se muestre:
 
-## *Instalaciones requeridas:*
+# *Instalaciones requeridas:*
   •	IDE para programa en Java: Se sugiere NetBeans, pero se puede utilizar cualquier otro si se conoce su manejo.\
   •	Motor de base de datos: MySQL. Si se ha utilizado XAMPP/WAMPP, se puede trabajar con el MySQL que trae integrado. Sino, lo puede instalar por aparte.
 
-## *Pasos a seguir:*
+# *Pasos a seguir:*
   1.	Seleccionar un tema de cualquier dominio o contexto que implique ingresar datos (ej. venta de libros – no limitarse al ejemplo, no tiene que ser de ventas, puede ser cualquier tema).
   2.	Listar al menos (7) datos para el tema seleccionado indicando el tipo de dato. El primer dato debe ser el id.
   3.	Seguir el tutorial que se presenta en en la guía como base para el trabajo.
