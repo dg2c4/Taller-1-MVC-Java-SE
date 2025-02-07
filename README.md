@@ -36,11 +36,11 @@ Genere una solución aplicando las siguientes indicaciones donde en cada "págin
 | Total | 50 |
 
 
-# Systems engineering
-  ### Student: David Gutierrez Chaves. 
-  ### Code: 506222728.
-  ### Subject: Desarrrollo de nuevas tecnologias.
-  ### Institution: Fundación Universitaria Konrad Lorenz.
+# *Systems engineering:*
+  Student: David Gutierrez Chaves. 
+  Code: 506222728.
+  Subject: Desarrrollo de nuevas tecnologias.
+  Institution: Fundación Universitaria Konrad Lorenz.
 
 ### Institutional email: 
     david.gutierrec@konradlorenz.edu.co  
