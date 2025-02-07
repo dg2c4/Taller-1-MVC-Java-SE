@@ -11,7 +11,7 @@ Desarrollar un programa de software que involucre las 3 capas del patrón arquit
 Genere una solución aplicando las siguientes indicaciones donde en cada "página/sección" se muestre:
 
 # *Instalaciones requeridas:*
-  •	IDE para programa en Java: Se sugiere NetBeans, pero se puede utilizar cualquier otro si se conoce su manejo.\
+  •	IDE para programa en Java. En este caso utilizamos apache NetBeans IDE.\
   •	Motor de base de datos: MySQL. Si se ha utilizado XAMPP/WAMPP, se puede trabajar con el MySQL que trae integrado. Sino, lo puede instalar por aparte.
 
 # *Pasos a seguir:*
