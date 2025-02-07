@@ -1,7 +1,7 @@
 # Desarrollo-De-Nuevas-Tecnologias-Data-Base
 Objetivo: Desarrollar un programa de software que involucre las 3 capas del patrón arquitectónico MVC (Modelo, Vista, Controlador) utilizando el lenguaje de programación Java y una base de datos en el motor de MySQL incluyendo un CRUD completo.
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/e3e3f498-79dd-464e-ab64-930bf5573405" width=400/>
+  <video src="" width=400/>
 <p/>
 
 # Link Del Trabajo Realizado:
