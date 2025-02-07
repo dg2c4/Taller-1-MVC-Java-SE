@@ -7,7 +7,7 @@ Objetivo: Desarrollar un programa de software que involucre las 3 capas del patr
 # Link Del Trabajo Realizado:
     https://
 
-# *CARACTERISTICAS:*
+## *Caracteristicas:*
 Genere una solución aplicando las siguientes indicaciones donde en cada "página/sección" se muestre:
 
 ## *Instalaciones requeridas:*
@@ -20,11 +20,11 @@ Genere una solución aplicando las siguientes indicaciones donde en cada "págin
   3.	Seguir el tutorial que se presenta en en la guía como base para el trabajo.
   4.	Probar que funciona el programa según los requerimientos dados.
 
-# *Entregable:*
+## *Entregable:*
   A. Crear un video de máximo 5 minutos incluyendo datos de presentación, explicando el tema seleccionado, los datos definidos y el funcionamiento de programa creado junto con la evidencia del CRUD (Create, Read, Update, Delete) de los datos en la base de datos.\
   B. Se debe entregar el video o el enlace al video en el espacio de entrega del Taller 1.
 
-# *Evaluación:*
+## *Evaluación:*
 | Ítem | Puntos |
 |------|--------|
 | Duración del video (máximo 5 minutos) | 9 |
