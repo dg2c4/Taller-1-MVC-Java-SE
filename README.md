@@ -41,7 +41,7 @@ Desarrollar un programa de software que involucre las 3 capas del patrón arquit
 | Student: | David Gutierrez Chaves |
 |------|--------|
 | Code: | 506222728 |
-| Subject: | Nuevas Tecnologias |
+| Subject: | Desarrollo De Nuevas Tecnologias |
 | Institution: | Fundación Universitaria Konrad Lorenz |
 | Institutional email | david.gutierrec@konradlorenz.edu.co |
   
