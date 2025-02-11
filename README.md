@@ -21,10 +21,7 @@ Desarrollar un programa de software que involucre las 3 capas del patrón arquit
     4. Probar que funciona el programa según los requerimientos dados.
 
 ## *Entregable:*
-  A. Crear un video de máximo 5 minutos incluyendo datos de presentación, explicando el tema seleccionado, los datos definidos y el funcionamiento de programa creado junto con la evidencia del CRUD (Create, Read, Update, Delete) de los datos en la base de datos.
-  
-  B. Se debe entregar el video o el enlace al video en el espacio de entrega del Taller 1.
-
+  Crear un video de máximo 5 minutos incluyendo datos de presentación, explicando el tema seleccionado, los datos definidos y el funcionamiento de programa creado junto con la evidencia del CRUD (Create, Read, Update, Delete) de los datos en la base de datos.
 
 ## *Evaluación:*
 | Ítem | Puntos |
