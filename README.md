@@ -1,7 +1,7 @@
 # *Taller-1-MVC-Java-SE*
 
 <p align="center">
-  <video src="assets/Modelo MVC Con Java SE, MySQL y CRUD.mp4" width=400/>
+  <video src="https://github.com/dg2c4/Taller-1-MVC-Java-SE/blob/main/assets/Modelo%20MVC%20Con%20Java%20SE%2C%20MySQL%20y%20CRUD.mp4" width=400/>
 <p/>
 
 ## Link del trabajo realizado:
