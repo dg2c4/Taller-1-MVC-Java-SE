@@ -5,7 +5,7 @@
 <p/>
 
 # *Link Del Trabajo Realizado:*
-    https://
+    https://youtu.be/RkZVU2sb
 
 # *Objetivo:* 
 Desarrollar un programa de software que involucre las 3 capas del patrón arquitectónico MVC (Model, View, Controller) utilizando el lenguaje de programación Java y una base de datos en el motor de MySQL incluyendo un CRUD completo.
