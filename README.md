@@ -31,7 +31,7 @@ Desarrollar un programa de software que involucre las 3 capas del patrón arquit
 | Tema | 4 pts |
 | Campos base de datos (7 campos) | 4 pts |
 | Explicación del programa | 15 pts |
-| Verificación del funcionamiento* | 15 pts |
+| Verificación del funcionamiento | 15 pts |
 | Total | 50 pts |
 
 
