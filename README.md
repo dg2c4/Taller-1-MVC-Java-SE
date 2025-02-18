@@ -1,10 +1,11 @@
 # *Taller-1-MVC-Java-SE*
 
 <p align="center">
-  <video src="" width=400/>
+  <video src="assets/Modelo MVC Con Java SE, MySQL y CRUD.mp4" width=400/>
 <p/>
 
-
+## Link del trabajo realizado:
+    ht
 
 # *Objetivo:* 
 Desarrollar un programa de software que involucre las 3 capas del patrón arquitectónico MVC (Model, View, Controller) utilizando el lenguaje de programación Java y una base de datos en el motor de MySQL incluyendo un CRUD completo.
