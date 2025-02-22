@@ -36,7 +36,7 @@ Desarrollar un programa de software que involucre las 3 capas del patrón arquit
 
 
 # *Systems engineering:*
-| Student: | David Gutierrez Chaves |
+| User: | David Gutierrez Chaves |
 |------|--------|
 | Code: | 506222728 |
 | Subject: | Desarrollo De Nuevas Tecnologias |
